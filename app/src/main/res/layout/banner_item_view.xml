@@ -6,6 +6,7 @@
 
     <ImageView
         android:id="@+id/banner_image"
+        android:scaleType="fitXY"
         android:layout_width="fill_parent"
         android:layout_height="170dp" />
 
